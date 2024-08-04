@@ -1,4 +1,4 @@
-Angels vs Demons: Battle for the Skies Welcome to Angels vs Demons: Battle for the Skies! Engage in an epic aerial combat experience as you choose your side in the ultimate battle between celestial beings and infernal forces. This README file will guide you through the necessary information to download, install, and access the game resources.
+Angels vs Demons: Battle for the Skies Welcome to Angels vs Demons: Battle for the Skies! Engage in an epic aerial combat experience as you choose your side in the ultimate battle between celestial beings and infernal forces. 
 
 Gameplay In this action-packed flighting game, you can either ascend as angelic warriors or descend as demonic forces. Master unique abilities, unleash devastating attacks, and dominate the skies to claim victory for your faction. Engage in intense aerial battles, execute breathtaking maneuvers, and prove your supremacy in the war between light and darkness.
 
